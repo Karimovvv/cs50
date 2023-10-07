@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort.
+
+How do you know?: Bubble sort takes 0m0,182s to sort random10000 it little bit faster than sort3.
+
+sort2 uses: Merge sort.
+
+How do you know?: Merge sort fastest sort method among these methods when I checked with all sort options it takes only few ms.
+
+sort3 uses: Selection sort.
+
+How do you know?: Selection sort takes 2 times more than other methods and this is slowest method to check options sort's.
